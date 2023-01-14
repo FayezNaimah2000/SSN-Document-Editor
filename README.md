@@ -1,1 +1,2 @@
 # SSN-Document-Editor
+There are two programs in this repo. One program uses an array. The other one uses a linked list. IRSarray.cpp is the program that uses an array. DLL.cpp, DLL.h, test.cpp, and timer.cpp are apart of the program that implements a linked list. The other files are documents that have the SSN information. Put the files of the desired program in a folder with the files of SSN documents. Then after running whatever program you have chosen, enter in the name of the SSN document file you want the program to use.
