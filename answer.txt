@@ -1,0 +1,6 @@
+The reason why the speed is better in project 3 than in project 2 is because 
+project 3 has a much simpler data structure. Project 3 has a linked list which is easy to 
+insert and delete points of data anywhere on it whereas project 2 had arrays which hard to increase to 
+insert and delete points of data as the rest of the data had to shifted. Also, you have
+to constantly resize the array to appropriatly hold the number of entries whereas you
+dont have to resize the linked list
